@@ -1,4 +1,5 @@
 appTest
 =======
 
-Test Application
+Test Application<br>
+redirect to index.php
